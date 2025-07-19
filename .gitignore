@@ -1,0 +1,5 @@
+# ingore Node modules
+node_modules/
+
+# ignore env
+.env

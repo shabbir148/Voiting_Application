@@ -1,0 +1,78 @@
+{
+    "name":"shabbir",
+    "age":23,
+    "party":"AAP",
+    "vote":[
+        {
+            "user":"321435462332341421",
+            "voteAt":"2019-05-23T18:25:43.511Z"
+        },
+        {
+            "user":"321435462332341422",
+            "voteAt":"2019-05-23T18:25:43.511Z"
+        },
+        {
+            "user":"321435462332341423",
+            "voteAt":"2019-05-23T18:25:43.511Z"
+        }
+
+    ],
+    "voteCount":3
+}
+
+{
+    "name":"shabbir",
+    "email":"shabbir@gmail.com",
+    "password":"111111",
+    "adhareCard":"12345678901234567890",
+    "mobile":"1234567890",
+    "address":"123, Main Street, City, Country",
+    "isVoted":false,
+    "role":"voter"
+}
+{
+    "name":"shabbir",
+    "password":"123456"
+}
+{
+    "name":"shabbirmoiz",
+    "email":"shabbirmoiz@gmail.com",
+    "password":"123456",
+    "adhareCard":"123456123213321567890",
+    "mobile":"12345123213",
+    "address":"123, Main gali, City, Country",
+    "isVoted":false,
+    "role":"voter"
+}
+{
+    "name":"shabbirmoiz",
+    "password":"123456"
+}
+{
+    "name":"shabbirsidhpur",
+    "email":"shabbirsidhpur@gmail.com",
+    "password":"123456",
+    "adhareCard":"1234561232131231567890",
+    "mobile":"123123123213",
+    "address":"123, Main mohla, City, Country",
+    "isVoted":false,
+    "role":"voter"
+}
+{
+    "name":"shabbirsidhpur",
+    "password":"123456"
+}
+{
+    "name":"admin",
+    "email":"admin@gmail.com",
+    "password":"123456",
+    "adhareCard":"11231231232131231567890",
+    "mobile":"989892132",
+    "address":"123, Main admin, City, Country",
+    "isVoted":false,
+    "role":"admin"
+}
+{
+    "name":"admin",
+    "password":"123456"
+}
